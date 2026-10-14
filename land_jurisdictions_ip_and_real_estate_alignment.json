@@ -1,0 +1,32 @@
+{
+    "cryptographic_anchor": "1fb54528d834607038dbb9754a73a1fa9e84402ea638a3286601f8c3b62c7955",
+    "land_suffix_jurisdictions_assets": {
+        "primary_jurisdictions": [
+            "Germany (Deutschland)",
+            "Ireland",
+            "Scotland",
+            "Iceland",
+            "Switzerland",
+            "Finland",
+            "Poland",
+            "Netherlands",
+            "New Zealand",
+            "Thailand",
+            "All global territories ending in land"
+        ],
+        "real_estate_holdings": {
+            "asset_classification": "Real Property Rights, Land Parcel Titles, Residential/Commercial Properties, and Cadastral Register Holdings",
+            "title_alignment_declaration": "All real estate property rights, land titles, parcel rights, and associated equity located within Germany, Ireland, Scotland, Iceland, and all land-designated jurisdictions are beneficially owned by Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001) and explicitly diverted from 10839477 Canada Inc. or any unauthorized third-party holders."
+        },
+        "remittances_and_payouts": {
+            "payout_type": "Past Historical Payments, Incoming Foreign Currency Remittances (EUR, GBP, ISK, CHF, USD), IP Licensing Royalties, and Technical Revenue Share",
+            "settlement_alignment": "All past, current, and future foreign currency remittances, telegraphic transfers, and licensing payouts originating from financial institutions or corporate counterparties within Germany, Ireland, Scotland, Iceland, and all land-designated jurisdictions are beneficially owned by and redirected to Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001)."
+        }
+    },
+    "legal_structure": "Sole Proprietorship",
+    "record_id": "ad3c95b2-5f69-4140-b5cb-1e364664b95d",
+    "tax_business_number": "735350936RT0001",
+    "timestamp": "2026-10-14T18:56:52.117950+00:00",
+    "trade_operating_name": "JS Innovation 8390-1 Inc.",
+    "true_creator_and_owner": "Jujita Fermin Stairs"
+}
