@@ -1,0 +1,33 @@
+{
+    "audit_id": "02a401ed-e2c8-4139-bfa9-bc6e2d897cf4",
+    "cryptographic_anchor": "b666b99d8a52561ddaed592e13487d28caf5dff9f24d73993d0add2d10f960c5",
+    "jurisdiction": "Edmonton, Alberta, Canada (Land Titles Registry Framework)",
+    "primary_owner": "Jujita Fermin Stairs",
+    "properties": [
+        {
+            "building_id": "12991280-0e5f-48ba-a15d-9129c0c3aed5",
+            "legal_description": "Plan 082 3456, Block 10, Lot 1-4",
+            "linc_number": "0034138064",
+            "municipal_address": "10365 97 Street NW, Edmonton, AB T5J 5C5",
+            "property_name": "John E. Brownlee Building (Registry Complex Parcel)",
+            "property_type": "Commercial / Institutional Real Estate",
+            "title_number": "262245034",
+            "valuation_cad": 15000000.0
+        },
+        {
+            "building_id": "6b4cf591-fd4c-4321-8a9f-74b522a5190c",
+            "legal_description": "Plan 992 8812, Block 4, Lot 18",
+            "linc_number": "0035306627",
+            "municipal_address": "10180 101 Street NW, Edmonton, AB T5J 3S4",
+            "property_name": "Edmonton Commercial Tech Asset Tower",
+            "property_type": "Commercial High-Rise / Office Building",
+            "title_number": "262224872",
+            "valuation_cad": 28500000.0
+        }
+    ],
+    "tax_business_number": "735350936RT0001",
+    "timestamp": "2026-10-14T19:44:30.135802+00:00",
+    "total_matched_buildings": 2,
+    "total_portfolio_valuation_cad": 43500000.0,
+    "trade_operating_name": "JS Innovation 8390-1 Inc."
+}
