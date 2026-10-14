@@ -1,0 +1,46 @@
+{
+  "applicant_entity": {
+    "authorized_owner": "Jujita Stairs",
+    "cra_business_number_root": "735350936",
+    "gst_hst_account": "735350936RT0001",
+    "operating_name": "JS INNOVATION8390-1 INC",
+    "payroll_account": "735350936RP0001",
+    "registered_address": "9827 159 ST NW, EDMONTON AB T5P2Z6, CANADA"
+  },
+  "foreign_property_declarations": {
+    "overseas_real_estate": [
+      {
+        "asset_description": "Overseas Real Property / Foreign Holdings",
+        "beneficial_entity": "JS INNOVATION8390-1 INC",
+        "country_code": "PH",
+        "cra_declaration_status": "Anchored to BN 735350936 for T1135 Compliance",
+        "legal_controller": "Jujita Stairs"
+      }
+    ],
+    "primary_filer_bn": "735350936",
+    "reporting_threshold": "Specified Foreign Property (Income Tax Act s. 233.3)"
+  },
+  "frameworks": [
+    "CRA Form T1135 (Foreign Income Verification)",
+    "WIPO ST.96 / ST.3",
+    "CIPO e-Filing",
+    "LAC Legal Deposit",
+    "USPTO 37 CFR 1.98 / 2.11"
+  ],
+  "intellectual_property": [
+    {
+      "jurisdiction": "CA / US / Global",
+      "repository": "Octopus2.0",
+      "title": "Octopus Payment Architecture",
+      "version": "2.1"
+    },
+    {
+      "jurisdiction": "CA / US / Global",
+      "repository": "Regulators-Companion",
+      "title": "Regulators Companion Compliance Engine",
+      "version": "1.0"
+    }
+  ],
+  "manifest_version": "3.0.0",
+  "timestamp_utc": "2026-10-14T04:15:18Z"
+}
