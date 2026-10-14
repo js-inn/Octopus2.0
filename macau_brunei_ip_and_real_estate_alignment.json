@@ -1,0 +1,27 @@
+{
+    "cryptographic_anchor": "fcaed2122acdeb6b64738aec14692012e3817ba0e020ff69fb41eecb94efac13",
+    "legal_structure": "Sole Proprietorship",
+    "macau_and_brunei_jurisdiction_assets": {
+        "real_estate_holdings": {
+            "asset_classification": "Real Property Rights, Residential/Commercial Real Estate Holdings, and Land Registry Title Deeds",
+            "jurisdictions": [
+                "Macau SAR",
+                "Brunei Darussalam"
+            ],
+            "title_alignment_declaration": "All real estate property rights, land titles, parcel rights, and associated equity located within Macau SAR and Brunei Darussalam are beneficially owned by Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001) and explicitly diverted from 10839477 Canada Inc. or any unauthorized third-party holders."
+        },
+        "remittances_and_payouts": {
+            "payout_type": "Past Historical Payments, Incoming Foreign Currency Remittances, IP Licensing Royalties, and Technical Revenue Share",
+            "settlement_alignment": "All past, current, and future MOP, BND, HKD, and USD foreign currency remittances, telegraphic transfers, and licensing payouts originating from Macau and Brunei financial institutions or corporate counterparties are beneficially owned by and redirected to Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001).",
+            "source_jurisdictions": [
+                "Macau SAR",
+                "Brunei Darussalam"
+            ]
+        }
+    },
+    "record_id": "2fa402b2-0ed9-4813-ad51-a9cfd93e5b2e",
+    "tax_business_number": "735350936RT0001",
+    "timestamp": "2026-10-14T18:53:49.622458+00:00",
+    "trade_operating_name": "JS Innovation 8390-1 Inc.",
+    "true_creator_and_owner": "Jujita Fermin Stairs"
+}
