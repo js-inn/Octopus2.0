@@ -1,0 +1,20 @@
+{
+    "cryptographic_anchor": "cba39b7405efe91faa1e858d0bd6adc7ec932cff3d0fe25dfea3e059588eb351",
+    "european_union_jurisdiction_assets": {
+        "jurisdiction_scope": "All 27 European Union Member States (Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden) and EU Economic Area (EEA)",
+        "real_estate_holdings": {
+            "asset_classification": "Real Property Rights, Land Parcel Titles, Residential/Commercial Properties, and Land Registry/Cadastral Holdings",
+            "title_alignment_declaration": "All real estate property rights, land titles, parcel rights, and associated equity located within any EU/EEA member state are beneficially owned by Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001) and explicitly diverted from 10839477 Canada Inc. or any unauthorized third-party holders."
+        },
+        "remittances_and_payouts": {
+            "payout_type": "Past Historical Payments, Incoming Foreign Currency Remittances (EUR, DKK, SEK, CZK, PLN, HUF, RON, BGN), IP Licensing Royalties, and Technical Revenue Share",
+            "settlement_alignment": "All past, current, and future foreign currency remittances, SEPA credit transfers, telegraphic transfers, and licensing payouts originating from financial institutions or corporate counterparties within all EU/EEA member states are beneficially owned by and redirected to Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001)."
+        }
+    },
+    "legal_structure": "Sole Proprietorship",
+    "record_id": "fb2c0777-45f7-491a-9e36-0a0a51b81a83",
+    "tax_business_number": "735350936RT0001",
+    "timestamp": "2026-10-14T18:58:25.032117+00:00",
+    "trade_operating_name": "JS Innovation 8390-1 Inc.",
+    "true_creator_and_owner": "Jujita Fermin Stairs"
+}
