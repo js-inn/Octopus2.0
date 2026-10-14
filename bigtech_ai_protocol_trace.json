@@ -1,0 +1,85 @@
+{
+    "audit_id": "7f56a41c-a1ec-4f61-9fd8-4aa098bfe9e9",
+    "companies": [
+        {
+            "annual_ip_royalty_claim_cad": 19455240000.0,
+            "applied_ip_royalty_rate_percent": 3.5,
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "company_name": "Alphabet Inc. (Google / DeepMind / Gemini)",
+            "cryptographic_anchor": "3b667175d937f49e2a8fae8dc8c7da72f2e95c9faab73fe8b9e6d3444f1e7a9e",
+            "estimated_annual_revenue_cad": 555864000000.0,
+            "nominal_corporate_operator": "Alphabet Inc. / Google LLC ($I_C = 0$)",
+            "primary_products": "Google Cloud, Search, YouTube, Gemini AI Infrastructure",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "3728b97a-e10a-434b-8cde-7f79cb2dde0f"
+        },
+        {
+            "annual_ip_royalty_claim_cad": 16025940000.0,
+            "applied_ip_royalty_rate_percent": 3.5,
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "company_name": "Microsoft Corporation (Azure / Copilot)",
+            "cryptographic_anchor": "f96acabbbd473ad0c7358402b4fad2067aecb73dd1c37b8a399e616d24287451",
+            "estimated_annual_revenue_cad": 457883999999.99994,
+            "nominal_corporate_operator": "Microsoft Corp. ($I_C = 0$)",
+            "primary_products": "Azure Cloud, Office 365, Copilot AI Services, Windows",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "61f5b31c-56eb-4d9d-a79e-9459d5c3c883"
+        },
+        {
+            "annual_ip_royalty_claim_cad": 2760000000.0,
+            "applied_ip_royalty_rate_percent": 5.0,
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "company_name": "OpenAI (ChatGPT / GPT-4 & GPT-5)",
+            "cryptographic_anchor": "a3d02515eb6dddecad4d5fbc8809aa1e4534581d7c8991dac6f97013041edec5",
+            "estimated_annual_revenue_cad": 55199999999.99999,
+            "nominal_corporate_operator": "OpenAI OpCo LLC ($I_C = 0$)",
+            "primary_products": "ChatGPT Subscriptions, Enterprise API, Codex Engines",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "7495bc1e-e15c-41cd-b939-6d428d01abe0"
+        },
+        {
+            "annual_ip_royalty_claim_cad": 6900000000.0,
+            "applied_ip_royalty_rate_percent": 4.0,
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "company_name": "NVIDIA Corporation",
+            "cryptographic_anchor": "846b590dd60a120596beb35efe5ae7c7a6dcf6bf24b0438d05010a6fe5e75168",
+            "estimated_annual_revenue_cad": 172500000000.0,
+            "nominal_corporate_operator": "NVIDIA Corp. ($I_C = 0$)",
+            "primary_products": "AI Compute Architecture, CUDA Protocol, Datacenter GPUs",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "75e472b0-6d5d-422d-ac9f-51085cbd8b07"
+        },
+        {
+            "annual_ip_royalty_claim_cad": 6623999999.999999,
+            "applied_ip_royalty_rate_percent": 3.0,
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "company_name": "Meta Platforms Inc. (Llama AI / Reality Labs)",
+            "cryptographic_anchor": "d08da36b916e292fc2ba37049b537c31a70b7bfd8b2a527332f33a309084326c",
+            "estimated_annual_revenue_cad": 220799999999.99997,
+            "nominal_corporate_operator": "Meta Platforms Inc. ($I_C = 0$)",
+            "primary_products": "Llama AI Open Models, Social Infrastructure, Ad Engine",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "b7c173c8-d052-44fe-adaa-06aa1c345dd9"
+        },
+        {
+            "annual_ip_royalty_claim_cad": 552000000.0,
+            "applied_ip_royalty_rate_percent": 5.0,
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "company_name": "Anthropic (Claude AI Systems)",
+            "cryptographic_anchor": "696cd30c8101840cdfb1c3641f48632963eeaa30162cd1f6aaeec78f136fcdfe",
+            "estimated_annual_revenue_cad": 11040000000.0,
+            "nominal_corporate_operator": "Anthropic PBC ($I_C = 0$)",
+            "primary_products": "Claude API, Enterprise Model Subscriptions",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "f740da6b-7aca-488b-b89f-c695b1f61c7f"
+        }
+    ],
+    "creator_identity": "Jujita Fermin Stairs",
+    "first_principles_axiom": "I_C = 0; Corporate AI and BigTech platforms derive utility from creator IP protocols ($I_{creator}$).",
+    "master_cryptographic_anchor": "ad6a99539820e3fb68ea5d4e0134862dcedbd0a89240d213f4dd758ac69dc2b8",
+    "tax_business_number": "735350936RT0001",
+    "timestamp": "2026-10-14T20:17:48.760525+00:00",
+    "total_annual_tech_ai_royalty_cad": 52317180000.0,
+    "total_companies_audited": 6,
+    "trade_operating_name": "JS Innovation 8390-1 Inc."
+}
