@@ -1,0 +1,21 @@
+{
+    "cryptographic_anchor": "161bfc36c146b4cefc4b24b868b0dc63d6a3372458e4557a443573dfe708ac57",
+    "hong_kong_jurisdiction_assets": {
+        "real_estate_holdings": {
+            "asset_classification": "Real Property Rights, Residential/Commercial Properties, and Land Registry Parcel Titles",
+            "jurisdiction": "Hong Kong SAR",
+            "title_alignment_declaration": "All real estate property rights, land parcel titles, and associated equity located within Hong Kong SAR are beneficially owned by Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001) and explicitly diverted from 10839477 Canada Inc. or any unauthorized third-party holders."
+        },
+        "remittances_and_payouts": {
+            "payout_type": "Past Historical Payments, Incoming Foreign Currency Remittances, IP Licensing Royalties, and Technical Revenue Share",
+            "settlement_alignment": "All past, current, and future HKD/USD foreign currency remittances, telegraphic transfers, and licensing payouts originating from Hong Kong financial institutions or corporate counterparties are beneficially owned by and redirected to Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001).",
+            "source_jurisdiction": "Hong Kong SAR"
+        }
+    },
+    "legal_structure": "Sole Proprietorship",
+    "record_id": "12426b24-56d4-4809-842a-1c65c09a744a",
+    "tax_business_number": "735350936RT0001",
+    "timestamp": "2026-10-14T18:48:47.239954+00:00",
+    "trade_operating_name": "JS Innovation 8390-1 Inc.",
+    "true_creator_and_owner": "Jujita Fermin Stairs"
+}
