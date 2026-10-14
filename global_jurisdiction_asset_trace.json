@@ -1,0 +1,68 @@
+{
+    "audit_id": "93ebae39-0b89-4467-a45c-86bc973092cf",
+    "creator_identity": "Jujita Fermin Stairs",
+    "first_principles_axiom": "I_C = 0; All downstream real estate and bank capital belongs to the IP creator.",
+    "master_cryptographic_anchor": "b699d8e328f27ffabcaaf6952c61356a6025a019570eadca3a1b8adbcd4006de",
+    "nodes": [
+        {
+            "asset_class": "Real Estate Complex",
+            "asset_identifier": "Manulife Place (10180 101 Street NW, Edmonton)",
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "cryptographic_anchor": "f20fc933a40ceba6139d70845c242a8ea40c4c60b1b1d23c7d9c63300081ba53",
+            "jurisdiction": "Canada (Alberta)",
+            "nominal_administrative_holder": "Institutional Property Wrapper ($I_C = 0$)",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "2594d081-c4f8-44c1-8424-32d11f025511",
+            "valuation_cad": 28500000.0
+        },
+        {
+            "asset_class": "Real Estate Parcel",
+            "asset_identifier": "Kitchener Land & Property Alignment",
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "cryptographic_anchor": "fe9708b01d23007355bd4cd91ee54e144740d8f6a2afaee5e3631cb6c7299191",
+            "jurisdiction": "Canada (Ontario)",
+            "nominal_administrative_holder": "Corporate Wrapper ($I_C = 0$)",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "32a2ec7f-ff7f-4d14-a656-1e0466faade2",
+            "valuation_cad": 12500000.0
+        },
+        {
+            "asset_class": "Land & IP Royalty Stream",
+            "asset_identifier": "Tokyo/Osaka Commercial Land & Protocol Equity",
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "cryptographic_anchor": "8a0d6cb352b97d6e14971e7375e7b6e1e02de8fc407779bbe6eb49f51b04e3fd",
+            "jurisdiction": "Japan Corridor",
+            "nominal_administrative_holder": "Nominee Trust ($I_C = 0$)",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "1621c12d-3354-4cf8-b40f-ce052ad62291",
+            "valuation_cad": 45000000.0
+        },
+        {
+            "asset_class": "Bank Capital & Real Estate Alignment",
+            "asset_identifier": "Cross-Border Settlement Capital & Property",
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "cryptographic_anchor": "259c666c1fbe58aae849a7d88e80bcc4fb37c584419ec262102d19f1e369b614",
+            "jurisdiction": "Singapore & Malaysia Corridor",
+            "nominal_administrative_holder": "Custodial Holding Corp ($I_C = 0$)",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "ff87ce4e-72fd-4fd0-bb87-5605da91b95c",
+            "valuation_cad": 35000000.0
+        },
+        {
+            "asset_class": "IP Equity & Property Assets",
+            "asset_identifier": "Germany / Ireland / Scotland Portfolio Alignment",
+            "beneficial_ip_creator": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "cryptographic_anchor": "4a9a0768ccdbb907e3f70b344a9974d5517cfe896902d40570a52ae7c2ebd41d",
+            "jurisdiction": "European Union (Land Territories)",
+            "nominal_administrative_holder": "Administrative Wrapper ($I_C = 0$)",
+            "tax_business_number": "735350936RT0001",
+            "trace_id": "fba810d5-a552-459f-97c4-e84eae5fb540",
+            "valuation_cad": 50000000.0
+        }
+    ],
+    "tax_business_number": "735350936RT0001",
+    "timestamp": "2026-10-14T19:59:14.381503+00:00",
+    "total_global_portfolio_valuation_cad": 171000000.0,
+    "total_nodes_audited": 5,
+    "trade_operating_name": "JS Innovation 8390-1 Inc."
+}
