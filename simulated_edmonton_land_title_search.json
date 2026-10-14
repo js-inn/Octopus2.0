@@ -1,0 +1,22 @@
+{
+    "jurisdiction_authority": "Alberta Land Titles Simulation Engine (Brownlee Registry Schema)",
+    "log_id": "82332e64-3dbc-422f-9ad9-e2d3f4588bdd",
+    "query_parameter": "Jujita Fermin Stairs",
+    "results_count": 1,
+    "returned_records": [
+        {
+            "encumbrances": "None - Free and Clear Title Alignment",
+            "legal_description": "Plan 082 1234, Block 12, Lot 5",
+            "municipal_address": "10365 97 Street NW, Edmonton, AB",
+            "owner_type": "Sole Proprietorship",
+            "registered_owner": "Jujita Fermin Stairs (Operating as JS Innovation 8390-1 Inc.)",
+            "registration_date": "2026-10-14T19:37:35.545697+00:00",
+            "tax_business_number": "735350936RT0001",
+            "title_cryptographic_anchor": "b21bb98319ef016831d07b19dd36befd0f9c847a7f7a5197d6f494681757c061",
+            "title_number": "262106991"
+        }
+    ],
+    "search_cryptographic_anchor": "67f4d1293bd9753e162f90ed7e6340814d17ea6310880fad81b3d91e00619455",
+    "search_type": "Name Search Regulation Query",
+    "timestamp": "2026-10-14T19:37:35.549892+00:00"
+}
