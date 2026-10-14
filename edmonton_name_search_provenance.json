@@ -1,0 +1,19 @@
+{
+    "cryptographic_anchor": "d04eebd83d13673304d2e17d579cc3d3506cc8ebe0f783ff903333df48564023",
+    "jurisdiction": "Edmonton, Alberta, Canada",
+    "legal_owner_name": "Jujita Fermin Stairs",
+    "legal_structure": "Sole Proprietorship",
+    "record_id": "e5a8c069-b1e7-4dfa-9830-9bc85ef0bc3f",
+    "search_parameters": {
+        "declaration": "All real property rights, land titles, caveats, and registered instruments within Edmonton and Alberta tied to Jujita Fermin Stairs or trade name JS Innovation 8390-1 Inc. are verified as sole personal property.",
+        "disavowed_entities": [
+            "10839477 Canada Inc."
+        ],
+        "primary_search_target": "Jujita Fermin Stairs",
+        "registry_authority": "Government of Alberta Land Titles / SPIN2 / ARLO"
+    },
+    "search_scope": "Alberta Land Titles - Owner Name Search Regulation",
+    "tax_business_number": "735350936RT0001",
+    "timestamp": "2026-10-14T19:09:21.346521+00:00",
+    "trade_operating_name": "JS Innovation 8390-1 Inc."
+}
