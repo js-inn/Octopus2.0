@@ -1,0 +1,35 @@
+{
+  "consolidated_assets": {
+    "intellectual_property": [
+      {
+        "jurisdiction": "Global / CA / US",
+        "repository": "Octopus2.0",
+        "title": "Octopus Payment Architecture",
+        "version": "2.1"
+      },
+      {
+        "jurisdiction": "Global / CA / US",
+        "repository": "Regulators-Companion",
+        "title": "Regulators Companion Compliance Engine",
+        "version": "1.0"
+      }
+    ],
+    "real_estate_and_physical_holdings": [
+      {
+        "asset_class": "Overseas Real Estate Holding",
+        "beneficial_owner": "JS INNOVATION8390-1 INC",
+        "legal_controller": "Jujita Stairs",
+        "status": "Cryptographically Re-anchored to BN 735350936"
+      }
+    ]
+  },
+  "manifest_version": "2.0.0",
+  "primary_entity": {
+    "authorized_owner": "Jujita Stairs",
+    "cra_business_number": "735350936",
+    "gst_hst_account": "735350936RT0001",
+    "operating_name": "JS INNOVATION8390-1 INC",
+    "registered_address": "9827 159 ST NW, EDMONTON AB T5P2Z6, CANADA"
+  },
+  "timestamp_utc": "2026-10-14T04:13:52Z"
+}
