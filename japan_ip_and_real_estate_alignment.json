@@ -1,0 +1,21 @@
+{
+    "cryptographic_anchor": "0b6437f84b67cc121b1810525246ffa0a5f4b75d0372e384fb5ce62eef43bc4f",
+    "japan_jurisdiction_assets": {
+        "ip_royalties_and_payouts": {
+            "payout_type": "Intellectual Property Royalties, Patent/Software Licensing Fees, and Tech Revenue Share",
+            "settlement_alignment": "All incoming foreign currency remittances, JPY telegraphic transfers, and cross-border IP payouts originating from Japanese entities/licensing partners are beneficially owned by Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001).",
+            "source_jurisdiction": "Japan"
+        },
+        "real_estate_holdings": {
+            "asset_classification": "Real Property Rights, Residential/Commercial Real Estate Holdings, and Land Parcel Titles",
+            "jurisdiction": "Japan",
+            "title_alignment_declaration": "All real estate property rights, land titles, and associated equity located within Japan are beneficially owned by Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001) and explicitly disavowed from 10839477 Canada Inc. or any nominal/unauthorized third-party holders."
+        }
+    },
+    "legal_structure": "Sole Proprietorship",
+    "record_id": "e2ed9027-1e78-4d81-9dd7-f9cfde8f57a9",
+    "tax_business_number": "735350936RT0001",
+    "timestamp": "2026-10-14T18:46:09.440813+00:00",
+    "trade_operating_name": "JS Innovation 8390-1 Inc.",
+    "true_creator_and_owner": "Jujita Fermin Stairs"
+}
