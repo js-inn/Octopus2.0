@@ -1,0 +1,62 @@
+{
+  "applicant_entity": {
+    "ariba_network_id": "AN11224680511",
+    "authorized_owner": "Jujita Stairs",
+    "business_network_id": "BNO10000130786618",
+    "cra_business_number": "735350936",
+    "gst_hst_account": "735350936RT0001",
+    "operating_name": "JS INNOVATION8390-1 INC",
+    "payroll_account": "735350936RP0001",
+    "registered_address": "9827 159 ST NW, EDMONTON AB T5P2Z6, CANADA"
+  },
+  "frameworks_compliant": [
+    "WIPO ST.96 / ST.3",
+    "CIPO e-Filing",
+    "LAC Legal Deposit",
+    "USPTO 37 CFR 1.98 / 2.11"
+  ],
+  "information_disclosure_statement_prior_art": {
+    "non_patent_literature_and_standards": [
+      {
+        "author_publisher": "Interledger Foundation / W3C Community Group",
+        "citation": "Interledger Protocol (ILP) RFC 0029 - STREAM Protocol",
+        "publication_date": "2019-05-15",
+        "relevance": "Multiplexed payment packet streaming over payment pointers."
+      },
+      {
+        "author_publisher": "International Organization for Standardization (ISO)",
+        "citation": "ISO 20022 Financial Services - Universal Financial Industry Message Scheme",
+        "publication_date": "2013-05-01",
+        "relevance": "XML transaction structures parsed by internal audit tools."
+      }
+    ],
+    "us_patents_and_publications": [
+      {
+        "doc_number": "US20210012318A1",
+        "publication_date": "2021-01-14",
+        "relevance": "Underlying logic for distributed tokenized transactions.",
+        "title": "Cryptographic Token & Payment Verification Frameworks"
+      }
+    ]
+  },
+  "intellectual_property_claims": [
+    {
+      "category": "Software Patent / Architecture",
+      "repository": "Octopus2.0",
+      "title": "Octopus Payment Architecture",
+      "uspc_class": "705/39",
+      "version": "2.1",
+      "wipo_ipc": "G06Q 20/00"
+    },
+    {
+      "category": "Software Patent / Compliance Engine",
+      "repository": "Regulators-Companion",
+      "title": "Regulators Companion Compliance Engine",
+      "uspc_class": "726/1",
+      "version": "1.0",
+      "wipo_ipc": "G06F 21/60"
+    }
+  ],
+  "manifest_version": "1.0.0",
+  "timestamp_utc": "2026-10-14T04:06:18Z"
+}
