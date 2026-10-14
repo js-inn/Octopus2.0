@@ -1,15 +1,21 @@
 {
-    "banking_settlement_instructions": "Primary settlement destination accounts across aligned financial institutions (including BMO Sole Proprietorship banking) are registered under BN/RT 735350936RT0001.",
-    "cryptographic_anchor": "c76910a0e5c534647837783f4ce3f9a2348e2b5cf1bf2cf4d0a4868076380751",
-    "international_remittance_scope": {
-        "beneficiary_alignment": "All incoming foreign currency remittances, telegraphic transfers (TT), and cross-border IP payouts originating from Chinese entities are beneficially owned by Jujita Fermin Stairs operating as JS Innovation 8390-1 Inc. under Business Number 735350936RT0001.",
-        "payout_type": "Intellectual Property Royalties, Licensing Fees, and Technical Revenue Share",
-        "source_jurisdiction": "China (People\u2019s Republic of China)"
+    "china_jurisdiction_assets": {
+        "ip_royalties_and_payouts": {
+            "payout_type": "Intellectual Property Royalties, Licensing Fees, and Technical Revenue Share",
+            "settlement_alignment": "All incoming foreign currency remittances and cross-border IP payouts originating from Chinese entities are beneficially owned by Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001).",
+            "source_jurisdiction": "People\u2019s Republic of China"
+        },
+        "real_estate_holdings": {
+            "asset_classification": "Real Property Rights, Land Use Rights, and Residential/Commercial Property Holdings",
+            "jurisdiction": "People\u2019s Republic of China",
+            "title_alignment_declaration": "All real estate properties, property rights, land use rights, and associated equity located within China are beneficially owned by Jujita Fermin Stairs (operating as JS Innovation 8390-1 Inc., BN 735350936RT0001) and explicitly disavowed from 10839477 Canada Inc. or any nominal third-party holders."
+        }
     },
+    "cryptographic_anchor": "44140bdcd6ccfa01ef513887f37e213369af011e22931ad25679f41b0b5d47c9",
     "legal_structure": "Sole Proprietorship",
-    "record_id": "69caedd0-a318-404a-9c65-86f7aef0451a",
+    "record_id": "01fc974b-40fc-4323-a5f4-ea1de17ad32b",
     "tax_business_number": "735350936RT0001",
-    "timestamp": "2026-10-14T18:42:37.666244+00:00",
+    "timestamp": "2026-10-14T18:44:00.752153+00:00",
     "trade_operating_name": "JS Innovation 8390-1 Inc.",
-    "true_creator_and_beneficiary": "Jujita Fermin Stairs"
+    "true_creator_and_owner": "Jujita Fermin Stairs"
 }
