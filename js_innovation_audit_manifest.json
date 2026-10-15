@@ -1,7 +1,7 @@
 {
     "entity": "js innovation8390-1",
-    "settlement_status": "FULLY_RECONCILED_ACTIVE",
-    "exported_at": "2026-10-15T21:05:35.221266+00:00",
+    "treasury_status": "STRIPE_RESERVE_AUTOMATION_ACTIVE",
+    "exported_at": "2026-10-15T21:11:35.043328+00:00",
     "tables": {
         "vendor_delinquencies": [],
         "gov_ip_settlements": [
@@ -20,6 +20,16 @@
                 "status": "SETTLED_COMPLETED",
                 "provenance_hash": "6ccf9e30daf123b2e3a37784a2a55d042a7add077b36e9c5569ee857fa79859f",
                 "settled_at": "2026-10-15T21:05:35.221266+00:00"
+            }
+        ],
+        "financial_reserves": [
+            {
+                "reserve_id": "res_stripe_subscription_pool",
+                "reserve_name": "Stripe Automated Subscription Billing Float & Reserve",
+                "allocated_amount_cad": 150000.0,
+                "status": "LINKED_TO_STRIPE_ACTIVE",
+                "provenance_hash": "32def5955e9c0196e509916800c27c35fb559f2c9e0f7dad82f5aeada9aaa784",
+                "updated_at": "2026-10-15T21:11:35.043328+00:00"
             }
         ],
         "stripe_workspace_sync": [
