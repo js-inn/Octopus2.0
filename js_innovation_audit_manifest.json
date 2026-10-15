@@ -1,7 +1,7 @@
 {
     "entity": "js innovation8390-1",
-    "treasury_status": "STRIPE_WEBHOOK_SIMULATION_ACTIVE",
-    "exported_at": "2026-10-15T21:21:51.163005+00:00",
+    "treasury_status": "GLOBAL_STRIPE_COLLECTIONS_MY_MO_EXPANDED",
+    "exported_at": "2026-10-15T21:24:19.702076+00:00",
     "tables": {
         "vendor_delinquencies": [],
         "gov_ip_settlements": [
@@ -122,6 +122,66 @@
                 "status": "READY_FOR_ACTIVATION",
                 "provenance_hash": "30b7d721b8e0f3ef93f910dee5a53f0201f75dc6afc43b832f1498be19ce2319",
                 "created_at": "2026-10-15T21:20:35.983926+00:00"
+            },
+            {
+                "collection_id": "col_my_ip_sub",
+                "region": "Malaysia",
+                "currency": "MYR",
+                "asset_class": "IP Subscriptions",
+                "gateway_method": "Stripe Billing / FPX",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "b5c682d2a9df72bd91daffd510c1669c1451ba4fe1cca068d97600925138615e",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
+            },
+            {
+                "collection_id": "col_my_royalty",
+                "region": "Malaysia",
+                "currency": "MYR",
+                "asset_class": "IP Royalties",
+                "gateway_method": "Stripe Invoicing / Cross-Border",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "61fbbb5d1864bef6304fb9e8286643dbcdaace76ba5ed9ca319fdff6efb59140",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
+            },
+            {
+                "collection_id": "col_my_real_estate",
+                "region": "Malaysia",
+                "currency": "MYR",
+                "asset_class": "Real Estate Settlements",
+                "gateway_method": "Stripe High-Value Processing",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "e74b45ba3a128e65d397d57dee30f8f54f122a610fd38b965237113bd8847a1f",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
+            },
+            {
+                "collection_id": "col_mo_ip_sub",
+                "region": "Macau",
+                "currency": "MOP",
+                "asset_class": "IP Subscriptions",
+                "gateway_method": "Stripe Billing / Global Cards",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "2eda36d18b40a8cbd2d41454a56ca1e322c8ac836beb7160453804493e7f6e23",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
+            },
+            {
+                "collection_id": "col_mo_royalty",
+                "region": "Macau",
+                "currency": "MOP",
+                "asset_class": "IP Royalties",
+                "gateway_method": "Stripe Invoicing / Cross-Border",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "97be1d1d7bd86bbd8a9ce0cb93b95d57e2a7e268847894db460a2e9e959a7167",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
+            },
+            {
+                "collection_id": "col_mo_real_estate",
+                "region": "Macau",
+                "currency": "MOP",
+                "asset_class": "Real Estate Settlements",
+                "gateway_method": "Stripe High-Value Processing",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "ba810e0cdc7b6072739e6dbe32c57e3f202fc0dfae49e566e7a52f3d3b826983",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
             }
         ],
         "stripe_workspace_sync": [
@@ -242,6 +302,78 @@
                 "status": "AUTOMATION_SCHEDULED",
                 "provenance_hash": "e051b60b11c55efe2a27f216a490bb6304316f55d7f873269ae0b3c2d2985bcc",
                 "created_at": "2026-10-15T21:20:35.983926+00:00"
+            },
+            {
+                "invoice_id": "inv_my_sub_001",
+                "collection_id": "col_my_ip_sub",
+                "region": "Malaysia",
+                "currency": "MYR",
+                "amount": 5500.0,
+                "asset_class": "IP Subscriptions",
+                "schedule": "MONTHLY_RECURRING",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "f628e0d33c17c8de4fb7e2ca7f67482984534d21284b428f59368c81f83c0331",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
+            },
+            {
+                "invoice_id": "inv_my_royalty_001",
+                "collection_id": "col_my_royalty",
+                "region": "Malaysia",
+                "currency": "MYR",
+                "amount": 35000.0,
+                "asset_class": "IP Royalties",
+                "schedule": "QUARTERLY_AUTOMATED",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "6ee3e948ebb3c702177b382f39376bd889b35b9c1903e937585a6f9409294707",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
+            },
+            {
+                "invoice_id": "inv_my_estate_001",
+                "collection_id": "col_my_real_estate",
+                "region": "Malaysia",
+                "currency": "MYR",
+                "amount": 85000.0,
+                "asset_class": "Real Estate Settlements",
+                "schedule": "MONTHLY_LEASE",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "19e12a827d9290298301496c2691a8bb15e35677fc5edfc59bca866f187c038b",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
+            },
+            {
+                "invoice_id": "inv_mo_sub_001",
+                "collection_id": "col_mo_ip_sub",
+                "region": "Macau",
+                "currency": "MOP",
+                "amount": 9500.0,
+                "asset_class": "IP Subscriptions",
+                "schedule": "MONTHLY_RECURRING",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "fcfd6b2e6be1f9c739f6740ec2fcacf08d3f1c3b4a1196518043f5f39213a1b3",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
+            },
+            {
+                "invoice_id": "inv_mo_royalty_001",
+                "collection_id": "col_mo_royalty",
+                "region": "Macau",
+                "currency": "MOP",
+                "amount": 50000.0,
+                "asset_class": "IP Royalties",
+                "schedule": "QUARTERLY_AUTOMATED",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "e8167f75271918128ef9031950f9e26e2dd833cecc6a3692344a4b45cbeb654d",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
+            },
+            {
+                "invoice_id": "inv_mo_estate_001",
+                "collection_id": "col_mo_real_estate",
+                "region": "Macau",
+                "currency": "MOP",
+                "amount": 140000.0,
+                "asset_class": "Real Estate Settlements",
+                "schedule": "MONTHLY_LEASE",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "934b2454683b391b05eb631c8c75e31648104ac3dc7348b6c43e1d6f02b5300b",
+                "created_at": "2026-10-15T21:24:19.702076+00:00"
             }
         ],
         "stripe_webhook_events": [
