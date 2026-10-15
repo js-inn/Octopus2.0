@@ -1,7 +1,7 @@
 {
     "entity": "js innovation8390-1",
-    "treasury_status": "STRIPE_RESERVE_AUTOMATION_ACTIVE",
-    "exported_at": "2026-10-15T21:11:35.043328+00:00",
+    "treasury_status": "GLOBAL_STRIPE_COLLECTIONS_INITIALIZED",
+    "exported_at": "2026-10-15T21:15:23.294593+00:00",
     "tables": {
         "vendor_delinquencies": [],
         "gov_ip_settlements": [
@@ -30,6 +30,68 @@
                 "status": "LINKED_TO_STRIPE_ACTIVE",
                 "provenance_hash": "32def5955e9c0196e509916800c27c35fb559f2c9e0f7dad82f5aeada9aaa784",
                 "updated_at": "2026-10-15T21:11:35.043328+00:00"
+            }
+        ],
+        "global_collections": [
+            {
+                "collection_id": "col_hk_ip_sub",
+                "region": "Hong Kong",
+                "currency": "HKD",
+                "asset_class": "IP Subscriptions",
+                "gateway_method": "Stripe Billing / FPS",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "003d5b26200c4c1ee5a4f7bf078c48643b828b0e552b1b376e3d8ccd4df7d47d",
+                "created_at": "2026-10-15T21:15:23.294593+00:00"
+            },
+            {
+                "collection_id": "col_sg_ip_sub",
+                "region": "Singapore",
+                "currency": "SGD",
+                "asset_class": "IP Subscriptions",
+                "gateway_method": "Stripe Billing / PayNow",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "d05b7c464c3399b35aac264eb0db2740bb70d8e5cf47241028cfd6166aac9c3a",
+                "created_at": "2026-10-15T21:15:23.294593+00:00"
+            },
+            {
+                "collection_id": "col_hk_royalty",
+                "region": "Hong Kong",
+                "currency": "HKD",
+                "asset_class": "IP Royalties",
+                "gateway_method": "Stripe Invoicing",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "43ce92e4639d699f3cc13ef393e54a5b69bd9b39974bd7ffb97ff280c78c0ab1",
+                "created_at": "2026-10-15T21:15:23.294593+00:00"
+            },
+            {
+                "collection_id": "col_sg_royalty",
+                "region": "Singapore",
+                "currency": "SGD",
+                "asset_class": "IP Royalties",
+                "gateway_method": "Stripe Invoicing",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "82f0465c40cca3d95d70bd519207bf572e2b252252b7fb04bbe7a5d99703c88f",
+                "created_at": "2026-10-15T21:15:23.294593+00:00"
+            },
+            {
+                "collection_id": "col_hk_real_estate",
+                "region": "Hong Kong",
+                "currency": "HKD",
+                "asset_class": "Real Estate Settlements",
+                "gateway_method": "Stripe High-Value Processing",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "7ecef69f89ff5e1d170c89b52b46daa3b1ccf292be571b654b9b8bf8260a449d",
+                "created_at": "2026-10-15T21:15:23.294593+00:00"
+            },
+            {
+                "collection_id": "col_sg_real_estate",
+                "region": "Singapore",
+                "currency": "SGD",
+                "asset_class": "Real Estate Settlements",
+                "gateway_method": "Stripe High-Value Processing",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "8e37053417f85f66bfe9622a824030fd45a28f3f211c43d7f4385737ddc59ef2",
+                "created_at": "2026-10-15T21:15:23.294593+00:00"
             }
         ],
         "stripe_workspace_sync": [
