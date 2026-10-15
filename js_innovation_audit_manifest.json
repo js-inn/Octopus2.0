@@ -1,7 +1,7 @@
 {
     "entity": "js innovation8390-1",
-    "treasury_status": "GLOBAL_STRIPE_COLLECTIONS_INITIALIZED",
-    "exported_at": "2026-10-15T21:15:23.294593+00:00",
+    "treasury_status": "AUTOMATED_INVOICING_ENGINE_ACTIVE",
+    "exported_at": "2026-10-15T21:17:59.133902+00:00",
     "tables": {
         "vendor_delinquencies": [],
         "gov_ip_settlements": [
@@ -102,6 +102,80 @@
                 "sync_status": "LOCAL_SIMULATION_SYNC",
                 "provenance_hash": "4140ed067e46053e1023b0e1b1798ecc799df813fd758919dfb4d7c85e1b14b3",
                 "synced_at": "2026-10-15T21:03:34.663195+00:00"
+            }
+        ],
+        "invoicing_automation": [
+            {
+                "invoice_id": "inv_hk_sub_001",
+                "collection_id": "col_hk_ip_sub",
+                "region": "Hong Kong",
+                "currency": "HKD",
+                "amount": 8500.0,
+                "asset_class": "IP Subscriptions",
+                "schedule": "MONTHLY_RECURRING",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "77c705847ea15093ebc99a4c35693c58a7b8c107f5f0a17cc386cd32c4aaf222",
+                "created_at": "2026-10-15T21:17:59.133902+00:00"
+            },
+            {
+                "invoice_id": "inv_sg_sub_001",
+                "collection_id": "col_sg_ip_sub",
+                "region": "Singapore",
+                "currency": "SGD",
+                "amount": 1500.0,
+                "asset_class": "IP Subscriptions",
+                "schedule": "MONTHLY_RECURRING",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "f426168b88bc2d5e56105ee90c9054ffb881079a5e65707ed9e8aab9653d7247",
+                "created_at": "2026-10-15T21:17:59.133902+00:00"
+            },
+            {
+                "invoice_id": "inv_hk_royalty_001",
+                "collection_id": "col_hk_royalty",
+                "region": "Hong Kong",
+                "currency": "HKD",
+                "amount": 45000.0,
+                "asset_class": "IP Royalties",
+                "schedule": "QUARTERLY_AUTOMATED",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "06fc1fb5b6e873fd8492d1c646a9c20603f93c354c5a1e7715602947302f0575",
+                "created_at": "2026-10-15T21:17:59.133902+00:00"
+            },
+            {
+                "invoice_id": "inv_sg_royalty_001",
+                "collection_id": "col_sg_royalty",
+                "region": "Singapore",
+                "currency": "SGD",
+                "amount": 8500.0,
+                "asset_class": "IP Royalties",
+                "schedule": "QUARTERLY_AUTOMATED",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "39e4ceec8ede7a368087960c92b911d9c7622534e3edb52d08402175ba345168",
+                "created_at": "2026-10-15T21:17:59.133902+00:00"
+            },
+            {
+                "invoice_id": "inv_hk_estate_001",
+                "collection_id": "col_hk_real_estate",
+                "region": "Hong Kong",
+                "currency": "HKD",
+                "amount": 120000.0,
+                "asset_class": "Real Estate Settlements",
+                "schedule": "MONTHLY_LEASE",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "3e7c4818ed3d84ecda563d34abd858a3914045d1f3362140f799cc12f5c76901",
+                "created_at": "2026-10-15T21:17:59.133902+00:00"
+            },
+            {
+                "invoice_id": "inv_sg_estate_001",
+                "collection_id": "col_sg_real_estate",
+                "region": "Singapore",
+                "currency": "SGD",
+                "amount": 22000.0,
+                "asset_class": "Real Estate Settlements",
+                "schedule": "MONTHLY_LEASE",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "d824cf60ed4008f00ccf9b1f64dce87d1f25bb29ec93b28675f3b98c8abebe97",
+                "created_at": "2026-10-15T21:17:59.133902+00:00"
             }
         ]
     }
