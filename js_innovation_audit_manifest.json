@@ -1,8 +1,36 @@
 {
     "entity": "js innovation8390-1",
-    "exported_at": "2026-10-15T19:14:31.716030+00:00",
+    "settlement_status": "FULLY_RECONCILED_ACTIVE",
+    "exported_at": "2026-10-15T21:05:35.221266+00:00",
     "tables": {
         "vendor_delinquencies": [],
-        "gov_ip_settlements": []
+        "gov_ip_settlements": [
+            {
+                "settlement_id": "gov_ip_001",
+                "agency_name": "Receiver General for Canada (ISED)",
+                "amount_cad": 250000.0,
+                "status": "SETTLED_COMPLETED",
+                "provenance_hash": "c821ed065ad2009872783d7aed8f2410eef457a9f4de3f5c2da2169f546e7532",
+                "settled_at": "2026-10-15T21:05:35.221266+00:00"
+            },
+            {
+                "settlement_id": "gov_ip_002",
+                "agency_name": "National Research Council Canada",
+                "amount_cad": 125000.0,
+                "status": "SETTLED_COMPLETED",
+                "provenance_hash": "6ccf9e30daf123b2e3a37784a2a55d042a7add077b36e9c5569ee857fa79859f",
+                "settled_at": "2026-10-15T21:05:35.221266+00:00"
+            }
+        ],
+        "stripe_workspace_sync": [
+            {
+                "sync_id": "sync_1792098214",
+                "available_balance_cad": 0.0,
+                "deficit_balance_cad": -1600.0,
+                "sync_status": "LOCAL_SIMULATION_SYNC",
+                "provenance_hash": "4140ed067e46053e1023b0e1b1798ecc799df813fd758919dfb4d7c85e1b14b3",
+                "synced_at": "2026-10-15T21:03:34.663195+00:00"
+            }
+        ]
     }
 }
