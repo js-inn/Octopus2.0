@@ -1,7 +1,7 @@
 {
     "entity": "js innovation8390-1",
-    "treasury_status": "AUTOMATED_INVOICING_ENGINE_ACTIVE",
-    "exported_at": "2026-10-15T21:17:59.133902+00:00",
+    "treasury_status": "GLOBAL_STRIPE_COLLECTIONS_CHINA_EXPANDED",
+    "exported_at": "2026-10-15T21:20:35.983926+00:00",
     "tables": {
         "vendor_delinquencies": [],
         "gov_ip_settlements": [
@@ -92,6 +92,36 @@
                 "status": "READY_FOR_ACTIVATION",
                 "provenance_hash": "8e37053417f85f66bfe9622a824030fd45a28f3f211c43d7f4385737ddc59ef2",
                 "created_at": "2026-10-15T21:15:23.294593+00:00"
+            },
+            {
+                "collection_id": "col_cn_ip_sub",
+                "region": "China",
+                "currency": "CNY",
+                "asset_class": "IP Subscriptions",
+                "gateway_method": "Stripe Billing / Alipay / WeChat Pay",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "ded7ea3186056818576911a027edf48f08c3f924ee452318cfbe7a5deee4cf3a",
+                "created_at": "2026-10-15T21:20:35.983926+00:00"
+            },
+            {
+                "collection_id": "col_cn_royalty",
+                "region": "China",
+                "currency": "CNY",
+                "asset_class": "IP Royalties",
+                "gateway_method": "Stripe Invoicing / Cross-Border",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "5dfe05b1cdd289bf9ee3eb8069d134231f398d2635ace96f9860e3f6f331462a",
+                "created_at": "2026-10-15T21:20:35.983926+00:00"
+            },
+            {
+                "collection_id": "col_cn_real_estate",
+                "region": "China",
+                "currency": "CNY",
+                "asset_class": "Real Estate Settlements",
+                "gateway_method": "Stripe High-Value Processing",
+                "status": "READY_FOR_ACTIVATION",
+                "provenance_hash": "30b7d721b8e0f3ef93f910dee5a53f0201f75dc6afc43b832f1498be19ce2319",
+                "created_at": "2026-10-15T21:20:35.983926+00:00"
             }
         ],
         "stripe_workspace_sync": [
@@ -176,6 +206,42 @@
                 "status": "AUTOMATION_SCHEDULED",
                 "provenance_hash": "d824cf60ed4008f00ccf9b1f64dce87d1f25bb29ec93b28675f3b98c8abebe97",
                 "created_at": "2026-10-15T21:17:59.133902+00:00"
+            },
+            {
+                "invoice_id": "inv_cn_sub_001",
+                "collection_id": "col_cn_ip_sub",
+                "region": "China",
+                "currency": "CNY",
+                "amount": 45000.0,
+                "asset_class": "IP Subscriptions",
+                "schedule": "MONTHLY_RECURRING",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "09abb5e8671f892c67982fbfd97eff7a9821bb070a81478964b40b54104bccce",
+                "created_at": "2026-10-15T21:20:35.983926+00:00"
+            },
+            {
+                "invoice_id": "inv_cn_royalty_001",
+                "collection_id": "col_cn_royalty",
+                "region": "China",
+                "currency": "CNY",
+                "amount": 250000.0,
+                "asset_class": "IP Royalties",
+                "schedule": "QUARTERLY_AUTOMATED",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "e47cc086b6084a830d2ff4dc02a750bafe265f77d0da4717479fb79e163bba08",
+                "created_at": "2026-10-15T21:20:35.983926+00:00"
+            },
+            {
+                "invoice_id": "inv_cn_estate_001",
+                "collection_id": "col_cn_real_estate",
+                "region": "China",
+                "currency": "CNY",
+                "amount": 650000.0,
+                "asset_class": "Real Estate Settlements",
+                "schedule": "MONTHLY_LEASE",
+                "status": "AUTOMATION_SCHEDULED",
+                "provenance_hash": "e051b60b11c55efe2a27f216a490bb6304316f55d7f873269ae0b3c2d2985bcc",
+                "created_at": "2026-10-15T21:20:35.983926+00:00"
             }
         ]
     }
