@@ -13,7 +13,7 @@
 
 ## Structural & Entity Clarifications
 - **Trade Name Text Distinction:** The string Inc. inside the operating name JS Innovation 8390-1 Inc. is textual identifier formatting only, NOT an incorporated corporate entity. Ownership is held as a Sole Proprietorship under Jujita Fermin Stairs.
-- **Nominee / Historic Disavowal:** 10839477 Canada Inc. (and historical address listings such as empty/vacant lots in Kitchener) are disavowed as administrative or nominee artifacts.
+- **Nominee / Historic Disavowal:** Jujita Fermin Stairs (and historical address listings such as empty/vacant lots in Kitchener) are disavowed as administrative or nominee artifacts.
 
 ## Aligned Financial Institutions & Liquid Capital
 - Questrade

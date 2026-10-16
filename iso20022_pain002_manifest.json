@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "CstmrPmtStsRpt": {
+            "GrpHdr": {
+                "MsgId": "OCT-DAEMON-20261015201144",
+                "CreDtTm": "2026-10-15T20:11:44Z",
+                "InitgPty": {
+                    "Nm": "JS Innovation 8390-1 Inc.",
+                    "PtyId": "Jujita Fermin Stairs",
+                    "TaxId": "735350936RT0001",
+                    "PstlAdr": {
+                        "StrtNm": "159 St NW",
+                        "BldgNb": "9827",
+                        "TwnNm": "Edmonton",
+                        "CtrySubDvsn": "AB",
+                        "PstCd": "T5P2Z6",
+                        "Ctry": "CA"
+                    }
+                }
+            },
+            "OrgnlGrpInfAndSts": {
+                "NbOfTxs": 20,
+                "CtrlSum": 3000.0,
+                "GrpSts": "ACCP"
+            }
+        }
+    }
+}
