@@ -1,8 +1,9 @@
+<p align="center">
+  <img src="1792468803601.jpg" width="100%" alt="Octopus 2.0 Logo"/>
+</p>
+
 <details>
-<summary>
-<img src="1792468803601.jpg" width="30" alt="Octopus Logo" style="vertical-align: middle; display: inline-block;"/> 
-<b>Octopus 2.0 (Click to Expand Features)</b>
-</summary>
+<summary><b>Octopus 2.0 (Click to Expand Core Features)</b></summary>
 
 ### Core Fintech Architecture & Capabilities
 Welcome to the official repository for **Octopus 2.0**—an offline-first, decentralized settlement and compliance engine designed for ultimate financial autonomy.
@@ -14,6 +15,7 @@ Welcome to the official repository for **Octopus 2.0**—an offline-first, decen
 * **Virtual Card & Token Generation**: Dynamically spins up secure, localized credentials for isolated transactions.
 
 </details>
+
 
 
 
