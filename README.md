@@ -1,4 +1,5 @@
-## <details><summary><b>🐙 Octopus 2.0 (Click to Expand Features)</b></summary>
+## <details><summary><b><img src="1709468803601.jpg" width="30" style="vertical-align: middle;"/> Octopus 2.0 (Click to Expand Features)</b></summary>
+
 
 ### Core Fintech Architecture & Capabilities
 Welcome to the official repository for **Octopus 2.0**—an offline-first, decentralized settlement and compliance engine designed for ultimate financial autonomy.
