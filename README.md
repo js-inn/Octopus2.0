@@ -1,6 +1,6 @@
 <details>
 <summary>
-<img src="1709468803601.jpg" width="30" alt="Logo" style="vertical-align: middle; display: inline-block;"/> 
+<img src="1709468803601.jpg" width="30" alt="Octopus Logo" style="vertical-align: middle; display: inline-block;"/> 
 <b>Octopus 2.0 (Click to Expand Features)</b>
 </summary>
 
@@ -14,6 +14,7 @@ Welcome to the official repository for **Octopus 2.0**—an offline-first, decen
 * **Virtual Card & Token Generation**: Dynamically spins up secure, localized credentials for isolated transactions.
 
 </details>
+
 
 
 ---
