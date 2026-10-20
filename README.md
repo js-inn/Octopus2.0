@@ -1,6 +1,6 @@
 <details>
 <summary>
-<img src="1709468803601.jpg" width="30" alt="Octopus Logo" style="vertical-align: middle; display: inline-block;"/> 
+<img src="1792468803601.jpg" width="30" alt="Octopus Logo" style="vertical-align: middle; display: inline-block;"/> 
 <b>Octopus 2.0 (Click to Expand Features)</b>
 </summary>
 
