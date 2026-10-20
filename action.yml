@@ -1,0 +1,21 @@
+name: 'Octopus 2.0 Fintech & Audit Engine'
+description: 'Offline-first fintech settlement and compliance audit engine featuring ISO 20022 schemas and SQLite verification.'
+author: 'js-inn'
+
+inputs:
+  audit_path:
+    description: 'Path to audit ledger or transaction database'
+    required: false
+    default: 'orchestrator.db'
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Run Audit Ledger Verification
+      run: python3 audit_ledger.py
+      shell: bash
